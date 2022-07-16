@@ -9,11 +9,13 @@
     <lastBuildDate>Sat, 16 Jul 2022 11:30:03 +0000</lastBuildDate><atom:link href="https://anukchat.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Machine Learning vs Traditional Programming</title>
-      <link>https://anukchat.github.io/posts/ml-vs-traditional-programming/</link>
+      <link>https://anukchat.github.io/posts/ml-vs-tp/</link>
       <pubDate>Sat, 16 Jul 2022 11:30:03 +0000</pubDate>
       
-      <guid>https://anukchat.github.io/posts/ml-vs-traditional-programming/</guid>
-      <description>Desc Text.</description>
+      <guid>https://anukchat.github.io/posts/ml-vs-tp/</guid>
+      <description>So, In case of Supervised Learning , how an algorithm learns by itself ? To understand it , lets first understand difference between Rule based and Data based algorithms.
+Traditional Programming paradigm focusses more on creating task specific algorithms, by coding a rule engine. The best example is *if-else *****statements in a program:
+if age &amp;lt;= 10: print(&amp;#34;Infant&amp;#34;) elif age &amp;gt; 10 &amp;amp; age &amp;lt; 20: print(&amp;#34;Teenage&amp;#34;) else: print(&amp;#34;Adult&amp;#34;) In above code, we are providing a standard rule for the program to work, it takes input as age (data) and through coded rules, it outputs the result.</description>
     </item>
     
     <item>
