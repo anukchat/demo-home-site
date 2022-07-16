@@ -2,11 +2,38 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://anukchat.github.io/tags/ai/</loc>
+    <lastmod>2022-07-16T11:30:03+00:00</lastmod>
+  </url><url>
+    <loc>https://anukchat.github.io/categories/ai/</loc>
+    <lastmod>2022-07-16T11:30:03+00:00</lastmod>
+  </url><url>
     <loc>https://anukchat.github.io/</loc>
-    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
+    <lastmod>2022-07-16T11:30:03+00:00</lastmod>
   </url><url>
     <loc>https://anukchat.github.io/categories/</loc>
-    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
+    <lastmod>2022-07-16T11:30:03+00:00</lastmod>
+  </url><url>
+    <loc>https://anukchat.github.io/tags/machine-learning/</loc>
+    <lastmod>2022-07-16T11:30:03+00:00</lastmod>
+  </url><url>
+    <loc>https://anukchat.github.io/categories/machine-learning/</loc>
+    <lastmod>2022-07-16T11:30:03+00:00</lastmod>
+  </url><url>
+    <loc>https://anukchat.github.io/posts/ml-vs-traditional-programming/</loc>
+    <lastmod>2022-07-16T11:30:03+00:00</lastmod>
+  </url><url>
+    <loc>https://anukchat.github.io/categories/ml/</loc>
+    <lastmod>2022-07-16T11:30:03+00:00</lastmod>
+  </url><url>
+    <loc>https://anukchat.github.io/posts/</loc>
+    <lastmod>2022-07-16T11:30:03+00:00</lastmod>
+  </url><url>
+    <loc>https://anukchat.github.io/tags/</loc>
+    <lastmod>2022-07-16T11:30:03+00:00</lastmod>
+  </url><url>
+    <loc>https://anukchat.github.io/categories/technical/</loc>
+    <lastmod>2022-07-16T11:30:03+00:00</lastmod>
   </url><url>
     <loc>https://anukchat.github.io/tags/first/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
@@ -15,12 +42,6 @@
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url><url>
     <loc>https://anukchat.github.io/posts/my-first-post/</loc>
-    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
-  </url><url>
-    <loc>https://anukchat.github.io/posts/</loc>
-    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
-  </url><url>
-    <loc>https://anukchat.github.io/tags/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url><url>
     <loc>https://anukchat.github.io/archives/</loc>

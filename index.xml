@@ -6,7 +6,16 @@
     <description>Recent content on anukool chaturvedi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 15 Sep 2020 11:30:03 +0000</lastBuildDate><atom:link href="https://anukchat.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 16 Jul 2022 11:30:03 +0000</lastBuildDate><atom:link href="https://anukchat.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Machine Learning vs Traditional Programming</title>
+      <link>https://anukchat.github.io/posts/ml-vs-traditional-programming/</link>
+      <pubDate>Sat, 16 Jul 2022 11:30:03 +0000</pubDate>
+      
+      <guid>https://anukchat.github.io/posts/ml-vs-traditional-programming/</guid>
+      <description>Machine Learning vs Traditional Programming</description>
+    </item>
+    
     <item>
       <title>My 1st post</title>
       <link>https://anukchat.github.io/posts/my-first-post/</link>
